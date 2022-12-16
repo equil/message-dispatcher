@@ -1,0 +1,65 @@
+# CocoaPods
+Pods/
+
+# Mac OS X
+*.DS_Store
+
+# Xcode
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+xcuserdata/
+BuildNumber.h
+iOS.playground/timeline.xctimeline
+.bundle
+
+# IDE
+.idea
+
+# Fastlane
+
+# temporary fastlane profiling data
+fastlane/report.xml
+
+fastlane/README.md
+
+# temporary `deliver` error output
+fastlane/Error*.png
+
+# temporary `deliver` preview output
+fastlane/Preview.html
+
+# generated screenshots
+fastlane/screenshots/*/*-portrait.png
+
+# generated screenshots
+fastlane/screenshots/*/*-landscape.png
+
+# generated screenshots, framed
+fastlane/screenshots/*/*-portrait_framed.png
+
+# generated screenshots, framed
+fastlane/screenshots/*/*-landscape_framed.png
+
+# generated screenshot index
+fastlane/screenshots/screenshots.html
+html
+artifacts
+build
+fastlane/test_output
+
+#allure test plan
+.allure-ee
+
+# SwiftGen
+**/Generated/*.swift
+**/Localization/**/Localizable.strings
+Packages/Emoji/Sources/Emoji/Emoji+Generated.swift
+vendor
+
+# Swift Package Manager
+/Wrike.xcworkspace/xcshareddata/swiftpm/Package.resolved
+Wrike.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved
+.swiftpm
