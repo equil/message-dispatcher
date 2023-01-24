@@ -9,7 +9,7 @@ In [MessagingTests.swift](Messaging/Tests/MessagingTests/MessagingTests.swift) y
 ## Notes
 
 - More details and descriptions you will find in [readme of framework](Messaging/README.md)
-- In [tests](Messaging/Tests/MessagingTests) you can find implementations for **Handler** and **Message** implementations if you need more context
+- In [tests](Messaging/Tests/MessagingTests) you can find implementations for **Handler** and **Message** if you need more context
 - Feel free to use any source of information you want, this will be allowed on interview as well if you will decide to do implementation on interview
 - Enjoy, take your time and good luck! :)
 
